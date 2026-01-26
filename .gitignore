@@ -1,4 +1,5 @@
 venvvars
+requirements-local.txt
 build
 tests/temp_out/
 pyrightconfig.json

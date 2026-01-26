@@ -1,6 +1,5 @@
-# TODO remove -e
--e ../reprs
--e /Users/malcolm/google_drive/python/malmus/music_df/main
+reprs @ git+https://github.com/malcolmsailor/reprs.git
+music_df @ git+https://github.com/malcolmsailor/music_df.git
 # I'd like to remove the mido dependency by making it optional
 # for music_df
 pandas
